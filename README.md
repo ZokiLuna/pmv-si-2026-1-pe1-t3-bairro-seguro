@@ -1,4 +1,4 @@
-# Título do Projeto
+# Bairro Seguro
 
 `CURSO: Sistemas de Informação`
 
@@ -10,9 +10,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
+* Raphael Costa Marinho
+* Gabriel Yuri Silva Alves dos Santos
+* Fernando Pomárico Barbosa Souza
 * Nome completo do aluno 4
 * Nome completo do aluno 5
 
