@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Raphael Costa Marinho
 * Gabriel Yuri Silva Alves dos Santos
-* Nome completo do aluno 3
+* Fernando Pomárico
 * Nome completo do aluno 4
 * Nome completo do aluno 5
 
